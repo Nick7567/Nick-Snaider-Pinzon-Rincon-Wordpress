@@ -56,4 +56,5 @@ Aqui hable un poco sobre Javier Reyes y su debut en mexico
 
 # Apartado de idiomas
 <img width="354" height="426" alt="image" src="https://github.com/user-attachments/assets/3800eaad-ca2a-4ec3-aaea-ee8ad03b67f7" />
+
 Aqui podemos ver la variedad de idiomas que podemos seleccionar para ver la pagina
