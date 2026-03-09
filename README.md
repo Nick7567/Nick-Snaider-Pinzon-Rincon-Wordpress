@@ -19,10 +19,6 @@ Para estructurar correctamente la información, creé varias categorías especí
 
 # Mixed Martial Arts (MMA)
 
-# Eventos y competiciones
-
-# Entrevistas
-
 También publiqué artículos de prueba con títulos, imágenes destacadas, etiquetas y contenido simulado, con el fin de comprobar el funcionamiento del portal como si fuera un medio real de noticias deportivas.
 
 # Configuración del sitio
